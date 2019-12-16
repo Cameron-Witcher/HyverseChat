@@ -1,0 +1,8 @@
+name: HyverseChat
+main: me.quickscythe.hyversechat.Main
+version: 1.0.0
+author: QuickScythe
+description: Chat plugin for Hyverse
+commands:
+  staffchat:
+    aliases: ["sc"]
